@@ -1,1 +1,2 @@
-Afegim una linia a l'arxiu
+Primera linia de codi
+
