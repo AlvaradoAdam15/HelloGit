@@ -1,1 +1,1 @@
-Primera linia afegida
+Afegim una linia a l'arxiu
